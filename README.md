@@ -11,4 +11,4 @@ The aim was to find correlations in the data and to suggest to the company some 
 
 Solution is written in Python with help of `pandas` and `matplotlib` modules. During the hackathon, we did not have time to complete the visualization part of assignment, but the data was cleaned up and ready to be uploaded to PowerBI or Tableau, where it should no longer be a problem to visualize the results.
 
-Team: Me, [Veronika Čierna](https://github.com/Veronikacierna108), Eva Přerostová
+Team: [Andrea Waltlová](https://github.com/andywaltlova), [Veronika Čierna](https://github.com/Veronikacierna108), Eva Přerostová
