@@ -1,7 +1,8 @@
 <a href="https://www.thermofisher.com/"><img align="right" src="https://cdn.phenompeople.com/CareerConnectResources/TFSCGLOBAL/cz_cz/mobile/assets/images/v-1606839717717-header_logo.png" alt="Thermofisher Scientific logo" width="200"/></a> <a href="https://www.czechitas.cz/"><img align="right" src="https://cdn.myshoptet.com/usr/www.shop-czechitas.cz/user/logos/logo.png" alt="Czechitas logo" width="200"/></a> 
 
 # Czechitas data hackathon
-(data from Thermofisher Scientific, example of one file included in data folder)
+
+Datasets were provided by [Thermofisher Scientific](https://www.thermofisher.com/), example of one input csv file is included in `data_raw` folder, cleaned file then in `data_clean` folder.
 
 
 The goal of the hackathon was to process data from Thermofisher Scientific. 
