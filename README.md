@@ -5,12 +5,8 @@
 
 Datasets were provided by [Thermofisher Scientific](https://www.thermofisher.com/), example of one input csv file is included in [data_raw](https://github.com/andywaltlova/hackathon-06-03-2020/tree/master/data_raw) folder, cleaned file then in [data_clean](https://github.com/andywaltlova/hackathon-06-03-2020/tree/master/data_clean) folder.
 
-
-The goal of the hackathon was to process data from Thermofisher Scientific. 
-
 The data provided consisted of nine csv files, each with approximately 500,000 - 1,200,000 records. Each csv file represented a log of events of one electron microscope. 
 
 The aim was to find correlations in the data and to suggest to the company some optimization of the operation of microscopes.
-
 
 Solution is written in Python with help of `pandas` and `matplotlib` modules. During the hackathon, we did not have time to complete the visualization part of assignment, but the data was cleaned up and ready to be uploaded to PowerBI or Tableau, where it should no longer be a problem to visualize the results.
